@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="label">Hello World!</string>
+    <string-array name="opcoes">
+        <item>Opção 1</item>
+        <item>Opção 2</item>
+        <item>Opção 3</item>
+    </string-array>
+
 </resources>
